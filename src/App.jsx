@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Logo from './assets/ryan.svg'
+import Logo from './assets/ryan.jpg'
 import { MoreVertical, Sun, Moon } from "lucide-react";
 import { SiInstagram, SiTiktok } from "react-icons/si";
 import { AiFillInstagram } from "react-icons/ai";
