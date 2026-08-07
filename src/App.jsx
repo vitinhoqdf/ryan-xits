@@ -59,7 +59,7 @@ function App() {
           </h2>
         </div>
 
-        {/* Grupo de Contas */}
+
         <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm flex flex-col space-y-4">
           {groups.map((group) => (
             <a
