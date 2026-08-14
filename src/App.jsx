@@ -14,7 +14,7 @@ function App() {
     {
       name: "instagram",
       gap: "gap-3",
-      url: "https://www.instagram.com/p/DbrMkadA5fH/?igsh=MW92YmpzOHozam50OQ==",
+      url: "https://www.instagram.com/ryan_xits079?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       icon: SiInstagram,
       iconBg: "bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600",
     },
