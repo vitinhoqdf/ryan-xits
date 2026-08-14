@@ -10,7 +10,7 @@ function App() {
 
   const groups = [
     { name: "Nosso Grupo de Contas FF", gap: "gap-1", url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4" },
-    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://wa.me/5579998287193?text=Olá%21%20Tenho%20interesse%20em%20adquirir%20o%20xit.%20Ainda%20está%20disponivel%3F" },
+    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4" },
     {
       name: "instagram",
       gap: "gap-3",
