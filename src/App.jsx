@@ -5,7 +5,12 @@ import { SiInstagram, SiTiktok } from "react-icons/si";
 import { AiFillInstagram } from "react-icons/ai";
 import './App.css'
 
+
+import { Analytics } from "@vercel/analytics/next"
+
 function App() {
+
+  <Analytics />
   const [isDark, setIsDark] = useState(true);
 
   const groups = [
