@@ -14,8 +14,13 @@ function App() {
   const [isDark, setIsDark] = useState(true);
 
   const groups = [
+
     { name: "Nosso Grupo de Contas FF", gap: "gap-1", url: "https://chat.whatsapp.com/KzQSW8nb5hGEKp5FSS1eTY" },
     { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/KzQSW8nb5hGEKp5FSS1eTY" },
+
+    { name: "Nosso Grupo de Contas FF", gap: "gap-1", url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4" },
+    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4" },
+
     {
       name: "instagram",
       gap: "gap-3",
