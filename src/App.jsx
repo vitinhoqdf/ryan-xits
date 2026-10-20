@@ -3,6 +3,7 @@ import Logo from './assets/ryan.jpg'
 import { MoreVertical, Sun, Moon } from "lucide-react";
 import { SiInstagram, SiTiktok } from "react-icons/si";
 import { AiFillInstagram } from "react-icons/ai";
+import { FaWhatsappSquare } from "react-icons/fa";
 import './App.css'
 
 
@@ -15,25 +16,13 @@ function App() {
 
   const groups = [
 
-    { name: "Nosso Grupo de Contas FF", gap: "gap-1", url: "https://chat.whatsapp.com/KzQSW8nb5hGEKp5FSS1eTY" },
-    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/KzQSW8nb5hGEKp5FSS1eTY" },
 
-    { name: "Nosso Grupo de Contas FF", gap: "gap-1", url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4" },
-    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4" },
+    { name: "Compras Online", gap: "gap-1", url: "https://ryanxitsloja.centralcart.ai/category/xit-para-iphone" },
 
     {
-      name: "instagram",
-      gap: "gap-3",
-      url: "https://www.instagram.com/ryan_xits079?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      icon: SiInstagram,
-      iconBg: "bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600",
-    },
-    {
-      name: "TIKTOK",
-      gap: "gap-3",
-      url: "https://www.tiktok.com/@ryanxitsff?is_from_webapp=1&sender_device=pc",
-      icon: SiTiktok,
-      iconBg: "bg-black",
+      name: "Nosso Grupo",
+      gap: "gap-2",
+      url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4"
     },
   ];
 
