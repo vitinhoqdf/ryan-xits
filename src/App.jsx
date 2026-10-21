@@ -17,7 +17,7 @@ function App() {
   const groups = [
 
 
-    { name: "Compras Online", gap: "gap-1", url: "https://ryanxitsloja.centralcart.ai/category/xit-para-iphone" },
+    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/KzQSW8nb5hGEKp5FSS1eTY" },
 
     {
       name: "Nosso Grupo",
