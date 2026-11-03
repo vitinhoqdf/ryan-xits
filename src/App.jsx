@@ -17,13 +17,8 @@ function App() {
   const groups = [
 
 
-    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://chat.whatsapp.com/KzQSW8nb5hGEKp5FSS1eTY" },
+    { name: "Adquira seu xit aqui 👺✅", gap: "gap-2", url: "https://wa.me/5579998851745?text=Tenho%20interesse%20no%20xit" },
 
-    {
-      name: "Nosso Grupo",
-      gap: "gap-2",
-      url: "https://chat.whatsapp.com/Lme3kDQu6yd5d9cMrWsk2d?s=cl&p=a&mlu=4"
-    },
   ];
 
   return (
